@@ -40,3 +40,4 @@ if st.button("Predict"):
     st.write(f"Tenure: {tenure}, Monthly: {monthly}, Total: {total}")
     st.markdown("---")
     st.markdown("👨‍💻 Built by Mahesh 🚀")
+    st.markdown("---")

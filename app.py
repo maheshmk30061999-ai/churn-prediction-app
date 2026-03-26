@@ -35,7 +35,8 @@ if st.button("Predict"):
         st.warning("⚠️ High risk customer!")
 
     # 🔥 Show input summary
-    st.markdown("---")
-    st.markdown("👨‍💻 Built by Mahesh 🚀")
+
     st.write("### 🔍 Input Summary")
     st.write(f"Tenure: {tenure}, Monthly: {monthly}, Total: {total}")
+    st.markdown("---")
+    st.markdown("👨‍💻 Built by Mahesh 🚀")
